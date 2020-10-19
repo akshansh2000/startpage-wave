@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: #212121;
+    background-color: #262626;
     color: white;
 }
 
@@ -58,7 +58,7 @@ a:hover,
 
 a,
 a:visited {
-    color: #6C7789;
+    color: #aaaaaa;
 }
 
 a:hover {
@@ -94,7 +94,7 @@ a:hover {
 }
 
 .box .box-container {
-    background-color: #111111;
+    background-color: #333333;
     width: 200px;
     height: 220px;
     float: left;
