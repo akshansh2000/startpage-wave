@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "startpage-wave",
+    "version": "1.0",
+    "description": "minimal newtab",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "permissions": ["tabs"],
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self';"
+}
