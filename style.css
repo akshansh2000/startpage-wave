@@ -99,6 +99,7 @@ a:hover {
     height: 220px;
     float: left;
     border-radius: 5px;
+    outline: 3px solid white;
 }
 
 .box .box-container:not(:last-child) {
